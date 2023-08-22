@@ -26,7 +26,7 @@ Principal Component Analysis (PCA): PCA is a dimensionality reduction technique 
 
 ✅ Collect More Data: If feasible, gathering additional data can sometimes reduce multicollinearity by providing a broader range of values for your predictors.
 
-Domain Knowledge: Understanding the subject matter and the relationships between variables in your specific research area can help you identify and address multicollinearity effectively.
+✅ Domain Knowledge: Understanding the subject matter and the relationships between variables in your specific research area can help you identify and address multicollinearity effectively.
 
 
 
